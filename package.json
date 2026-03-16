@@ -1,0 +1,19 @@
+{
+  "name": "mern-todo",
+  "version": "1.0.0",
+  "description": "mern stack todo list application by kaleeswaran",
+  "license": "ISC",
+  "author": "kaleeswaran",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1",
+    "nodemon": "^3.1.10"
+  }
+}
